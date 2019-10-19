@@ -1,0 +1,19 @@
+.container {
+    margin-top: 7%;
+}
+
+.forms {
+    width: 275px;
+}
+
+.mat-card {
+    transition: box-shadow 280ms cubic-bezier(.4, 0, .2, 1);
+    display: block;
+    position: relative;
+    padding: 50px;
+    border-radius: 10px;
+}
+
+.container {
+    max-width: 800px;
+}
